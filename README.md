@@ -11,7 +11,7 @@ Old Swan song No Infinite Ammo: No more power creep with this skill and reversed
 ## How to install it?  
 1. Download the file from [Here/GitHub](https://github.com/PJzuza/OSNIA), [Modworkshop](https://modworkshop.net/mydownloads.php?action=view_down&did=21900)  
 2. Extract the file using a program, for example, WinRAR, 7-Zip etc.  
-3. Move the folder's name "ld Swan song No Infinite Ammo" to \SteamLibrary\steamapps\common\PAYDAY 2\mods  
+3. Move the folder's name "Old Swan song No Infinite Ammo" to \SteamLibrary\steamapps\common\PAYDAY 2\mods  
 4. Enjoy :)  
   
 PJzuza  
