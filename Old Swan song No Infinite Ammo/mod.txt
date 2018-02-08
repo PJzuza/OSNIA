@@ -1,9 +1,9 @@
 {
 	    "name" : "Old Swan song No Infinite Ammo",
 	    "description" : "Make swan song works as the original time is 9 second but remove unlimited ammunition",
-	    "author" : "NewPJzuza & Thanks to the help of KurtCobain47 and sydch. Thank you you guys :)",
-	    "contact" : "http://steamcommunity.com/id/NewPJzuza/",
-	    "version" : "1.0",
+	    "author" : "NewPJzuza & sydch",
+	    "contact" : "http://steamcommunity.com/id/NewPJzuza/ , http://steamcommunity.com/id/40X70N",
+	    "version" : "1.1",
 	    "blt_version" : 2,
 	    "image": "oldswannoinfammo.png",	
 	    "color": "239 170 66",
